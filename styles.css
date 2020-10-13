@@ -1,0 +1,17 @@
+button {
+  display: block;
+  padding: 10px;
+  margin: 25% auto;
+  outline: none;
+  font-size: 15px;
+  text-transform: capitalize;
+  background: transparent;
+  cursor: pointer;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+button:hover {
+  background: gray;
+  color: white;
+}
